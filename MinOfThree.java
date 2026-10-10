@@ -1,3 +1,6 @@
+// This project was created for me to practice definitions & logical operators inside of Java
+// Very basic code that checks which of the three numbers is the smallest
+
 import java.util.Scanner;
 public class MinOfThree
 {
