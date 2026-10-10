@@ -1,3 +1,7 @@
+// Created to practice long if, else if, else chains, as well as RNG.
+// Code prompts the user to input a question, then uses RNG to decide what answer to give.
+// Code has 20 options, 5 are no, 5 are neutral, 10 are yes.
+
 import java.util.Scanner;
 import java.util.Random;
 public class EightBall {
