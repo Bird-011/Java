@@ -7,7 +7,7 @@ public class EightBall {
         try (Scanner keyboard = new Scanner(System.in))
         {
             Random d20 = new Random();
-            int answer = d20.nextInt(20);
+            int answer = d20.nextInt(20) + 1;
             if (answer == 1)
             {
                 advice = "My sources say no";
