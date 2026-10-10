@@ -1,3 +1,7 @@
+// Designed for practicing definitions and rounding.
+// Code takes user input, then cubes the number inputted.
+// Rounds to 9 decimal places, removes trailing zeros.
+
 import java.text.DecimalFormat;
 import java.util.Scanner;
 public class CubedValue 
